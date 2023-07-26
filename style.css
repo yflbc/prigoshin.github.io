@@ -1,0 +1,20 @@
+#hdd{ 
+    margin-top: 15px; margin-left: 40px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+#a1{
+    height: 100px;
+}
+body {
+    
+
+
+}
+#banner {
+    background-image: url(img/i.jpg)(180deg, yellow, green, orange 25%, blue);
+    height: 100px;
+}
